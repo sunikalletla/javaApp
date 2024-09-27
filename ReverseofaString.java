@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class ReverseofaString
 {
-	Public Static void main(String[ ] arg)
+	public static void main(String[ ] arg)
 	{
 	String str;
 	Scanner scan=new Scanner(System.in);
